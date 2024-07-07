@@ -5,7 +5,7 @@
   <h2>The Wild Oasis</h2>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://hotel-admin-demo.netlify.app/">
       <strong>Demo Website</strong>
     </a>
   </h3>
@@ -20,7 +20,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://the-wild-oasis-alamin.vercel.app">
+<a align="center" href="https://hotel-admin-demo.netlify.app/">
 
 ![Screenshot](./public/thumbnail.png)
 
